@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# EDUCLOUD
+EduCloud is a cloud-based platform that aims to assist students and educators learning with modern tools that allow them to upload, access, and manage learning materials.
 
-## Getting Started
+## WHY EDUCLOUD?
+EduCloud was created as an initiative to enhance the quality of learning through technology and innovation.
+Originally inspired by the needs of my university, this platform aims to provide students and educators with secure, accessible,
+and modern tools for sharing and managing learning materials.
+My goal is to contribute to a future where quality education is not limited by location or resources, but empowered by innovation.
 
-First, run the development server:
+## STACK
+- Frontend: React + Tailwind
+- Backend: FastAPI (Python)
+- File Service: Go (Fiber)
+- Database: PostgreSQL
+- Cloud: AWS S3
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## LICENSE
+You are free to use and modify this project for learning and development purposes, but please provide appropriate credit.
+Thank you so much for taking the time to read this, and I appreciate the effort for using my work to learn! Good luck in your
+development journey!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© 2025 Christian Mamplata
